@@ -1,0 +1,52 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #e6e4e4;
+}
+
+.green-border {
+    background-color: white;
+    border: 3px solid rgb(35, 175, 35) !important; 
+    border-radius: 5px;
+}
+
+.green-legend {
+    font-weight: bold;
+    font-size: 32px;
+    color: rgb(35, 175, 35);
+    width: auto;
+    padding: 10px;
+}
+
+.green-legend .red-text {
+    color: red;
+}
+
+.form-control, .form-select {
+    border: 2px solid rgb(185, 185, 185);
+}
+
+#file-uploader {
+    padding: 10px;
+}
+
+.button1, .button2 {
+    color: white;
+    padding: 5px 15px;
+    border: 2px solid;
+}
+
+.btn-success {
+    background-color: rgb(35, 175, 35) !important;
+    border: 2px transparent;
+    width: 110px;
+}
+
+.btn-danger {
+    background-color: rgb(226, 0, 0) !important;
+    border: 2px transparent;
+    width: 80px;
+}
+
+.mt-n3 {
+    margin-top: -50px; 
+}
